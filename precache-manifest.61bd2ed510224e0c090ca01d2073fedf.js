@@ -8,19 +8,19 @@ self.__precacheManifest = [
     "url": "/NY-Times-Scrubber/static/js/runtime~main.683a4407.js"
   },
   {
-    "revision": "38cbf1b920adf453cb55",
-    "url": "/NY-Times-Scrubber/static/js/main.38cbf1b9.chunk.js"
+    "revision": "d1d4297ebe6e271ad5d8",
+    "url": "/NY-Times-Scrubber/static/js/main.d1d4297e.chunk.js"
   },
   {
     "revision": "7089717f1da19893d0c8",
     "url": "/NY-Times-Scrubber/static/js/1.7089717f.chunk.js"
   },
   {
-    "revision": "38cbf1b920adf453cb55",
+    "revision": "d1d4297ebe6e271ad5d8",
     "url": "/NY-Times-Scrubber/static/css/main.7a7bb542.chunk.css"
   },
   {
-    "revision": "5495c1008c4c17d485bb7a08c5fcf2c4",
+    "revision": "598c4f0ea1f0cf76496ba7e0451edcf3",
     "url": "/NY-Times-Scrubber/index.html"
   }
 ];
